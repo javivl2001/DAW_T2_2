@@ -27,7 +27,7 @@
                 Console.WriteLine(cli);
             }
             // Hola amigo
-            // Adios amigo
+            // Hola
         }
     }
 
